@@ -1,0 +1,10 @@
+/*   Aboutus Page   */
+
+.about-container {
+    width: 100%;
+    padding: 200px 100px;
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    grid-gap: 32px;
+    box-sizing: border-box; /* Para incluir padding en el ancho total */
+}
